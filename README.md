@@ -1,4 +1,4 @@
-![I am Frontend Developer]([https://image.shutterstock.com/image-vector/frontend-developer-typographic-header-website-260nw-1810322299.jpg](https://c0.klipartz.com/pngpicture/585/981/gratis-png-html-js-y-css-logo-hojas-de-estilo-en-cascada-javascript-html-css3-jquery-logo-thumbnail.png))
+![I am Frontend Developer](https://c0.klipartz.com/pngpicture/585/981/gratis-png-html-js-y-css-logo-hojas-de-estilo-en-cascada-javascript-html-css3-jquery-logo-thumbnail.png)
 # Hi there 👋, I'm Torikul Islam
 ### I am Frontend Developer
 
@@ -6,7 +6,7 @@ Hello I am front end developer with knowledge of programing languages and softwa
 
 Skills:  REACT / JS / HTML / CSS / JavaScript
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on react. 
 - 🌱 I’m currently learning Python 
 - 👯 I’m looking to collaborate on Github 
 
