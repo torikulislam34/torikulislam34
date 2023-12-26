@@ -1,4 +1,4 @@
-![I am Frontend Developer](https://www.canva.com/design/DAF4GUwkEuo/wpGk__sh5AYQmT4zEIr9zA/watchutm_content=DAF4GUwkEuo&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+![I am Frontend Developer](https://img.freepik.com/free-photo/person-front-computer-working-html_23-2150040428.jpg?w=900&t=st=1703615007~exp=1703615607~hmac=7f6ca8ee53ea79dd4255c27e177654fa66107ce83226b40615fcb9db7d7047c1)
 # Hi there 👋, I'm Torikul Islam
 ### I am Frontend Developer
 
